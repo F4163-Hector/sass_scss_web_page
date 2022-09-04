@@ -29,4 +29,11 @@
   color: #ff652f;
 }
 
+.home-bgImg-container {
+  border: 1 px solid red;
+  background-image: url("../../img/model-1.jpg");
+  height: 100vh;
+  background-position: center center;
+}
+
 /*# sourceMappingURL=main.css.map */
