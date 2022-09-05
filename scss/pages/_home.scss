@@ -4,7 +4,10 @@
     border: 1 px solid red;
     background-image: url('../../img/model-1.jpg');
     height: 100vh;
-    background-position: center center;
+    background-position: center;
+    background-repeat: no-repeat;
+    // background-size: cover;
+    
     
     
 }
