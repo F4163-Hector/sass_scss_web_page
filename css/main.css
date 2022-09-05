@@ -36,4 +36,11 @@
   background-position: center center;
 }
 
+body {
+  font-size: 1rem;
+}
+body p {
+  background-color: red;
+}
+
 /*# sourceMappingURL=main.css.map */

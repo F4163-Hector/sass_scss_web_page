@@ -1,5 +1,12 @@
-@import './base/reset';
-@import './abstracts/mixins', './abstracts/variables';
-@import './components/footer', './components/nav';
-@import './pages/about', './pages/contact', './pages/home', './pages/projects';
-@import './components/responsive';
+@import "./base/reset";
+@import "./abstracts/mixins", "./abstracts/variables";
+@import "./components/footer", "./components/nav";
+@import "./pages/about", "./pages/contact", "./pages/home", "./pages/projects";
+@import "./components/responsive";
+
+body {
+  font-size: 1rem;
+  p {
+    background-color: red;
+  }
+}
